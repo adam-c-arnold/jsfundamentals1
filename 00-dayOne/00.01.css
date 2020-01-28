@@ -1,0 +1,21 @@
+h1{
+
+    font-family: ariel Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:lightgreen;
+
+    text-align:  center;
+}
+
+h3{
+    color:blue;
+}
+
+p{
+    color:red;
+}
+.border-color li:nth-child(2){
+    margin: 50px;
+    border-style: solid;
+    border-color: rgb(5, 5, 5);
+}
+
