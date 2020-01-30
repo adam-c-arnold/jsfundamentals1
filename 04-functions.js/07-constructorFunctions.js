@@ -28,4 +28,11 @@ console.log(person4);
 
 */
 
+( let j = 0;  j <  5; j++ ) {
+    console.log(j + " ")
+  }
 
+  let count = 0;
+  for ( ;  count < 9; ++count ) {
+    console.log(count);
+  }
